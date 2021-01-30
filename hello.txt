@@ -1,9 +1,6 @@
 hi git bash
 already file modified
 i will add second line here
-<<<<<<< HEAD
 in remort i do this
 so in local 
-=======
 see here
->>>>>>> 9cae74bab5584ca567d6765606e84bfbc2f55be5
